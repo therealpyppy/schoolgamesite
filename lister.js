@@ -1,5 +1,9 @@
 import games from "https://cdn.jsdelivr.net/gh/therealpyppy/schoolgamesite@latest/games.js"
-let game = Object.keys(games)
+let sortedKeys = Object.keys(games).sort()
+game = {}
+for (let i = 0; i<sortedKeys.length; i++){
+	game[sortedKeys[i]] = games[sortedKeys[i]]
+}
 
 const body = document.getElementById("gameList")
 
