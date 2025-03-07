@@ -96,13 +96,9 @@ const games = {
 	"Basketball Stars": "basketballstars.html",
 	"Raft Wars": "raftwars.html",
 	"Super Mario 64": "supermario64.html",
-	"Super Mario Bros": "supermariobros.html",
-	"Super Mario Flash": "supersmashflash.html",
-	"Super Mario Flash 2": "supersmashflash2.html",
-	"There Is No Game": "thereisnogame.html",
 	"Throw a Potato": "throwapotato.html",
 	"Throw a Potato Again": "throwapotatoagain.html",
-	"Time Shooter 2": "timeshooter2.html"
+	"Time Shooter 2": "timeshooter2.html",
 	"Test": "testingGames.html"
 };
 export default games;
