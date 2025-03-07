@@ -1,4 +1,4 @@
-import games from "https://cdn.jsdelivr.net/gh/therealpyppy/schoolgamesite/games.js"
+import games from "https://cdn.jsdelivr.net/gh/therealpyppy/schoolgamesite@latest/games.js"
 
 const searchInput = document.getElementById('search');
 const suggestionsBox = document.getElementById('suggestions');
