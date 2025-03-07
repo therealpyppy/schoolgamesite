@@ -1,4 +1,4 @@
-import games from "https://cdn.jsdelivr.net/gh/therealpyppy/schoolgamesite/games.js"
+import games from "https://cdn.jsdelivr.net/gh/therealpyppy/schoolgamesite@latest/games.js"
 let game = Object.keys(games)
 
 const body = document.getElementById("gameList")
