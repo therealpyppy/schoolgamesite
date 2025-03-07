@@ -1,4 +1,4 @@
-import games from "./games.js"
+import games from "https://cdn.jsdelivr.net/gh/therealpyppy/schoolgamesite@latest/games.js"
 let sortedKeys = Object.keys(games).sort()
 let game = {}
 for (let i = 0; i<sortedKeys.length; i++){
